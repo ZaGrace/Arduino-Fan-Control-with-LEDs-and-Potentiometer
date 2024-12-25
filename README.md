@@ -154,6 +154,8 @@ void loop() {
 
 This project demonstrates the control of a fan using Arduino and provides visual feedback with LEDs for different speed ranges. While functional, improvements in power management are suggested for better performance.
 
+Note: The Diode may not be necessary and as such was not added to the fzz or png's. You made add it for added security.
+
 ---
 
 ## License
